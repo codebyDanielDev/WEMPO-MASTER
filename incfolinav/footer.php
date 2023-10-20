@@ -3,8 +3,8 @@
         <div class="row">
             <!-- Suscripción -->
             <div class="col-md-4">
-                <h5>Suscríbete a nuestras promociones</h5>
-                <p>Ingresa tu correo electrónico para recibir las mejores ofertas</p>
+                <h5>Suscríbete a nuestro boletin informativo. </h5>
+                <p>Ingresa tu correo electrónico para recibir información de nuestro proyecto.</p>
                 <form action="subscribe.php" method="post">
                     <div class="input-group">
                         <input type="email" class="form-control" placeholder="Correo electrónico" required>
@@ -22,10 +22,10 @@
                 Te atendemos las 24hrs</p>
                 <p>Escríbenos:<br>
                 Estamos para ayudarte<br>
-                QosqoMarket9989@jijija.pe</p>
+                senati@senati.pe</p>
                 <p>Llámanos<br>
-                Venta Telefónica 931998025<br>
-                De lunes a domingo de 8:00am a 8:00pm</p>
+                x931998025<br>
+                De lunes a domingo de 8:00Am a 6:00Pm</p>
                 <p>Visítanos<br>
                 
             </div>
@@ -37,20 +37,18 @@
                         <h5>Secciones</h5>
                         <div class="btn-group-vertical">
                           <button type="button" class="btn btn-link">Nosotros</button>
-                          <button type="button" class="btn btn-link">Extra Garantía</button>
                           <button type="button" class="btn btn-link">Nuestros servicios</button>
-                          <button type="button" class="btn btn-link">Venta empresa</button>
-                          <button type="button" class="btn btn-link">Trabaja con nosotros</button>
+                          <button type="button" class="btn btn-link">Colabora con nosotros con nosotros</button>
                         </div>
                     </div>
                     <div class="col-md-4">
-                      <h5>Atención al cliente</h5>
+                      <h5>Atención al usuario</h5>
                       <div class="dropdown">
-                        <p>Atención al cliente</p>
+                        <p>Atención al usuario</p>
                         <ul>
                           <li><a href='#'>Preguntas frecuentes</a></li>
-                          <li><a href='#'>Cambios y devoluciones</a></li>
-                          <li><a href='#'>Términos y condiciones de compra</a></li>
+                          <li><a href='#'>REPORTAR ERRORES</a></li>
+                          <li><a href='#'>Términos y condiciones DE USO </a></li>
                           <li><a href='#'>Politica de privacidad</a></li>
                           <li><a href='#'>Contáctanos</a></li>
                         </ul>
@@ -75,15 +73,8 @@
     </li>
   </ul>
 </li>
-<li><a href='#'>Libro de reclamaciones</a></li>
 </ul>
-<h5>Métodos de pago</h5>
-<ul class="items-lk metodos">
-  <li class="mdi mdi-mastercard">MASTERCARD<i class="fab fa-cc-mastercard"></i></li>
-  <li class="mdi mdi-visa">VISA<i class="fab fa-cc-visa"></i></li>
-  <li class="mdi mdi-diners">DINERS<i class="fab fa-cc-diners-club"></i></li>
-  <li class="mdi mdi-amex">AMEX<i class="fab fa-cc-amex"></i></li>
-</ul>
+
 </div>
 </div>
 </div>
@@ -91,7 +82,7 @@
 <!-- Copyright -->
 <div class="row mt-3">
 <div class="col-md-12 text-center">
-<p>© 2023 - Qosqo Market    . Todos los derechos reservados.</p>
+<p>© 2023 - CHOKLOX    . Todos los derechos reservados.</p>
 </div>
 </div>
 </div>

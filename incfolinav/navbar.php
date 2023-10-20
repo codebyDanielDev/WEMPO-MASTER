@@ -28,7 +28,7 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="loginregis.php">Iniciar sesión/Registrarte</a></li>
                         <li><a class="dropdown-item" href="perfilUser.php">Perfil</a></li>
-                        <li><a class="dropdown-item" href="usuarios/mis_pedidos.php">HISTORIAL<?php</a></li>
+                        <li><a class="dropdown-item" href="usuarios/mis_pedidos.php">HISTORIAL</a></li>
                         <li><a class="dropdown-item" href="panelAdmin.php">ADMIN</a></li>
                         <li><a class="dropdown-item" href="salir.php">CERRAR SESION</a></li>
                     </ul>
@@ -42,7 +42,7 @@
                 </li>-->
                 <li class="nav-item">
                     <a class="nav-link" href="productos/carrito.php">
-                        Nosotros
+                        NOSOTROS
                     </a>
                 </li>
             </ul>

@@ -30,10 +30,8 @@
 
     <main>
         <!-- Aquí va el contenido principal de la página -->
-        <section class="content-cintillo content-placeholder-cintillo-cat-1 gh-gtm " data-position="">
-            <div class="cintillo-normal"><a href="https://youtu.be/dQw4w9WgXcQ" class="link-cintillo gh-gtm-img" data-name="CyberWow_agora" data-position="Home_H-Cintillo-01" data-index="" data-creative="https://promart.vteximg.com.br/arquivos/Cintillo-desktop-1366x46.png" target="_blank"></a>
-                <img class="" src="https://promart.vteximg.com.br/arquivos/Cintillo-desktop-1366x46.png">
-            </div>
+        <section>
+
         </section>
 
 
