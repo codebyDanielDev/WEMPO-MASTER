@@ -143,7 +143,7 @@ document.getElementById("register-form").addEventListener("submit", function (ev
                   <p>Dale click, y create una.</p>
                   <button class="btn transparent" id="sign-up-btn">CREAR</button>
               </div>
-              <img src="./img/log.svg" class="image" alt="">
+              <img src="imagenes\choklitos\crearcuentachoclo.png" class="image" alt="">
           </div>
 
           <div class="panel right-panel">
@@ -153,7 +153,7 @@ document.getElementById("register-form").addEventListener("submit", function (ev
                   <button class="btn transparent" id="sign-in-btn">INICIAR</button>
                   
               </div>
-              <img src="./img/register.svg" class="image" alt="">
+              <img src="imagenes\choklitos\inicarchoclo.png" class="image" alt="">
           </div>
         </div>
       </div>
