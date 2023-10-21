@@ -71,7 +71,7 @@
         </div>
       </div>
       <div class="col-lg-6">
-        <img class="img-fluid" src="https://pnx-assets-prod.s3.amazonaws.com/2023-05/image2x_51.webp" alt="Clasificación de imágenes">
+        <img class="img-fluid" src="imagenes\choklitos\choclopizarra.png" alt="Clasificación de imágenes">
       </div>
     </div>
   </div>
@@ -177,7 +177,7 @@
       <div class="col-md-4 mb-4">
         <div class="bg-white p-4 text-center">
           <div class="rounded-circle border border-primary-1 mx-auto mb-3" style="width: 64px; height: 64px;">
-            <img class="img-fluid" src="https://pnx-assets-prod.s3.amazonaws.com/2023-06/community_1_13.svg" alt="Comunidad">
+            <img class="img-fluid" src="imagenes\choklitos\choclocomunidad.png" alt="Comunidad">
           </div>
           <h4 class="mb-3 title">Comunidad</h4>
           <div class="d-flex flex-column">
@@ -188,7 +188,7 @@
       <div class="col-md-4 mb-4">
         <div class="bg-white p-4 text-center">
           <div class="rounded-circle border border-primary-1 mx-auto mb-3" style="width: 64px; height: 64px;">
-            <img class="img-fluid" src="https://pnx-assets-prod.s3.amazonaws.com/2023-06/support_3_22.svg" alt="Asistencia">
+            <img class="img-fluid" src="imagenes\choklitos\choclosoporte.png" alt="Asistencia">
           </div>
           <h4 class="mb-3 title">Asistencia</h4>
           <div class="d-flex flex-column">
@@ -199,11 +199,11 @@
       <div class="col-md-4 mb-4">
         <div class="bg-white p-4 text-center">
           <div class="rounded-circle border border-primary-1 mx-auto mb-3" style="width: 64px; height: 64px;">
-            <img class="img-fluid" src="https://pnx-assets-prod.s3.amazonaws.com/2023-05/contact_4_16.svg" alt="Contacto">
+            <img class="img-fluid" src="imagenes\choklitos\choclocontacto.png" alt="Contacto">
           </div>
           <h4 class="mb-3 title">Contacto</h4>
           <div class="d-flex flex-column">
-            <a class="btn btn-link mb-3" target="_self" rel="noopener" href="https://www.microfocus.com/es-es/products/information-data-analytics-idol/contact">Obtenga respuesta a sus preguntas</a>
+            <a href="https://www.microfocus.com/es-es/products/information-data-analytics-idol/contact">Obtenga respuesta a sus preguntas</a>
           </div>
         </div>
       </div>
